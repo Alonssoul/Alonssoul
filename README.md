@@ -1,6 +1,11 @@
+<center>
+
 # Evolution 🍃
+
 **`Licenciado en Biología`**
+
 ![Plants](plants.gif)
+
 **Aprendiendo random, de chill.**
 
 [![Spotify](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/playlist/6ggeVpdVddyYgEViagjgEE?si=b7721041d3974903)
